@@ -1,0 +1,6 @@
+C:\Users\Developer\source\repos\GmailTrick\GmailTrick\bin\Release\GmailTrick.exe.config
+C:\Users\Developer\source\repos\GmailTrick\GmailTrick\bin\Release\GmailTrick.exe
+C:\Users\Developer\source\repos\GmailTrick\GmailTrick\bin\Release\GmailTrick.pdb
+C:\Users\Developer\source\repos\GmailTrick\GmailTrick\obj\Release\GmailTrick.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\GmailTrick\GmailTrick\obj\Release\GmailTrick.exe
+C:\Users\Developer\source\repos\GmailTrick\GmailTrick\obj\Release\GmailTrick.pdb

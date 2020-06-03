@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GmailTrick", "GmailTrick\GmailTrick.csproj", "{0CDD69E6-5A38-4014-A0E1-C4843DAE0ABC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CDD69E6-5A38-4014-A0E1-C4843DAE0ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CDD69E6-5A38-4014-A0E1-C4843DAE0ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CDD69E6-5A38-4014-A0E1-C4843DAE0ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CDD69E6-5A38-4014-A0E1-C4843DAE0ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27DD96C9-5621-42E5-BE19-A49F4959CDE1}
+	EndGlobalSection
+EndGlobal
